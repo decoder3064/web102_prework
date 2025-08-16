@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *102 Pre-work*
 
 Submitted by: **David Reyes**
 
