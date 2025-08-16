@@ -66,6 +66,24 @@ body {
     text-align: center;
 }
 
+#unfunded-btn{
+    cursor: pointer;
+}
+#funded-btn{
+    cursor: pointer;
+}
+#all-btn{
+    cursor: pointer;
+}
+
+.stats-container {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
+}
 button {
     font-family: 'Cabin';
     border: none;
